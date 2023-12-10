@@ -1,24 +1,25 @@
 .footer {
   width: 100%;
   height: 200px;
-  background: #223b05;
+  background: #84af78;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   padding-top: 10px;
-  margin-top: 200px;
+  margin-top: 0px;
+  
 }
 
 .socialMedia svg {
-  color: white;
+  color: beige;
   margin: 20px;
   font-size: 70px;
   cursor: pointer;
 }
 
 .footer p {
-  color: white;
+  color: beige;
 }
 
 @media only screen and (max-width: 600px) {

@@ -30,10 +30,10 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <center>
+            <span>
               ReactJS, NextJS, HTML, CSS, React Native, NPM,
               JavaScript, MaterialUI, Yarn, TailwindCSS, Vercel
-            </center>
+            </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
