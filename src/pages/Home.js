@@ -38,7 +38,7 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, Java, PostgreSQL, Python, Flask,``
+              NodeJS, Java, PostgreSQL, Python, Flask,
               MySQL, MongoDB, RapidAPI
             </span>
           </li>
