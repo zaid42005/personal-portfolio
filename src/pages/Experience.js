@@ -13,7 +13,7 @@ function Experience() {
       <VerticalTimeline lineColor="#a9cd9e">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2022 - 2024"
+          date="2022 - 2023"
           iconStyle={{ background: "#84af78", color: "#fff" }}
           icon={<SchoolIcon />}
         >
@@ -28,7 +28,37 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2024 - 2025"
+          date="2022 - 2023"
+          iconStyle={{ background: "#c2782f", color: "#fff" }}
+          icon={<WorkIcon/>}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Mubadala Tennis World Cup
+          </h3>
+
+          <h4 className="vertical-timeline-element-subtitle">
+            Team Leader - IT
+          </h4>
+
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2022 - 2023"
+          iconStyle={{ background: "#c2782f", color: "#fff" }}
+          icon={<WorkIcon/>}
+        >
+          <h3 className="vertical-timeline-element-title">
+            University of Birmingham
+          </h3>
+
+          <h4 className="vertical-timeline-element-subtitle">
+            Student Volunteer & Ambassador
+          </h4>
+
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2024 - 2026"
           iconStyle={{ background: "#84af78", color: "#fff" }}
           icon={<SchoolIcon />}
         >
@@ -48,7 +78,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Solutions Engineer - Simpli Events, Toronto, CA
+            Software Engineering Intern - Simpli Events, Toronto, CA
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             
